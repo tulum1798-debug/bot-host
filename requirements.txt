@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+aiofiles
+psutil
+aiohttp
